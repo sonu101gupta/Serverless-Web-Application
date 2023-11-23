@@ -1,5 +1,5 @@
 # Serverless Number Square Web Application
-
+<img src="https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/full-stack%20amplify%20console%20arch%20diagram%20module%205.8d82fc2a7b47b307dfcefb6fa5f364e8c24426bc.png" alt="Process">
 This project is a serverless web application that calculates the square of a number and stores the output result in DynamoDB. The application leverages AWS services such as Lambda functions, IAM for security management, API Gateway for endpoint management, DynamoDB for database storage, and Amplify for the overall deployment and management of the application.
 
 # # Author
